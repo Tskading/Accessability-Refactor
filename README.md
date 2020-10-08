@@ -1,4 +1,3 @@
-# UW-SEA-FSF-PT-09-2020-U-C
 
 # Accessability-Refactor
 
